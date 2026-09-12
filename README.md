@@ -1,6 +1,6 @@
 # SoCal Football Project — Website
 
-Official website for SoCal Football Project, a free youth soccer nonprofit serving the San Gabriel Valley.
+Official website for SoCal Football Project, a free youth soccer nonprofit serving Southern California.
 
 ## Stack
 Pure HTML/CSS — no framework, no build step, no dependencies beyond Google Fonts.
